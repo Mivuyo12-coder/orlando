@@ -1,0 +1,52 @@
+TASK ONE
+
+As internet users digital footprints spread to include social networks, financial data, and cloud stored data, a single acccount, an email address of 
+often serves as the foundationa for the security of their complete identity. the disclosure of a victim's email password or recuperation questions 
+undermines this foundation of credibility. Once compromised, a hijacker can change a victim's passwords for various services as an entry hijacking,
+download all of the victim's sensitive information, remotely erase the user's information and backups, or imitate the target to send spam or worse.
+(Thomas et al.,2017) 
+
+1. Phishing and scams
+Realising that a person's email is active allows cybercriminals to target them with more persuasive emails. They may even use previously breached credentials
+in the mail to intimadate their victims.
+2. Identity theft and Impersonation
+This happens when hackers combine an individual's email with other disclosed private information, such as phone numbers, Identity details, or addresses
+from earlier breaches, they can spoof them or register for services in their names.
+3. Ransomware
+When this happen, users files or date are encrypted and held for ransom via malware.
+4. Click fraud
+Bots are employed to click on online advertisements to deceive the advertisers.
+5. Unauthorised Cryptocurrency mining
+When this happens computers become infected with malware for mining cryptocurrencies.Webpages can potentially be attacked with software that utilises
+visitors computers to mine.
+6. Denial of service (DoS)
+This happens when server bandwidth is used to slow or paralise a system via the network. While this can happen genuinely when a site is overloaded with traffic 
+after being connected to by a bigger audience, it can also be purposefully created through a variety of methods. A distributed DoS attack occurs when numerous 
+linked online devices overwhelm a target website with traffic. DDoS assaults are especially harmful because they may bombard the target with a large volume of 
+traffic from multiple sources, rendering them difficult to mitigate.
+
+(Stringhini, 2021,pp.229-232) 
+
+7. Man-in-the-middle attack
+This occurs when a communication or data transmission is intercepted. It eneables an attacker to gain access to sensitive data or install malware.
+
+ACTIONS TO TAKE
+
+a) Always take caution for phising and frauds. 
+ One need to be wary of emails or texts urging one to "reset" or referencing previously exposed credentials.
+ One also need to constantly go straight to the website instead of clicking on links. 
+b) Encrypt electronic devices fully
+   Software, browsers and antivirus needs to be kept up-to-date  
+   Never save crucial passwords in plain text.
+
+
+References:
+
+Data Guard (2025) How to prevent data breaches?: [online] Available at: https://www.dataguard.com/blog/how-to-prevent-data-breaches/[Accessed 09 September 2025], 
+Fortinet (2025) Man-in-the-Middle Attack: Types And Examples. [online] Available at: https://www.fortinet.com/resources/cyberglossary/man-in-the-middle-attack [Accessed 09 September 2025]
+Stringhini,G(2021) Adversarial behaviours In A.Rashid, H.Chivers,E.Lupu,A. Martin,.& S.Schneider(Eds), The cyber security body of knowledge
+(1.1.0,pp.223-250).The national cyber security centre. http://www.cybok.org/media/downloads/CyBOK_v1.1.0pdf
+Thomas, K., Li, F., Zand, A., Barrett, J., Ranieri, J., Invernizzi, L., Markov, Y., Comanescu, O., Eranti, V., Moscicki, A., Margolis, D., Paxson, V. & Bursztein, E., 2017. 
+Data Breaches, Phishing, or Malware? Understanding the Risks of Stolen Credentials. In: Proceedings of the SIGSAC Conference on Computer and Communications Security (CCS 2017), 
+Dallas, TX, 30 Oct–3 Nov. ACM, pp. 1421–1434. DOI: 10.1145/3133956.3134067.
+

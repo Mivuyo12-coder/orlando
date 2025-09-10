@@ -1,0 +1,49 @@
+Practical Task 2
+
+A
+1) A strong sense of urgency or pressure
+Banks frequently notify consumers via text, phone, or email of any questionable
+account activity, particularly if they have signed up for alerts. However, reputable
+banks rarely utilise the alarming or menacing rheotoric that scammers frequently use.
+Criminals utilise false bank notifications to induce a sense of immediacy and scare
+their victims into responding quickly, prior to their sense of vigilance can completely set it.
+2) Software Installation Guidelines
+Hackers routinely attempt to obtain victim's private data by fooling them into installing 
+software, typically claiming that the software is required for account or device
+protection. However, the applications peddled by scammers are often used to remotely
+control one's devices and steal personal or banking data. While it is critical to maintain
+one's devices'security software up to date, constantly verify that you are installing 
+software from a legitimate, confirmed source. 
+3) Demand for Personal Data
+A legitimate bank would never contact customers by phone, email, or text to enquire for 
+the account owner's username and password, PIN number, or other critical account information
+If you receive correspondence requesting for confidential data, deem it a clear sign that you have recieved
+a fraudelent bank account message. To protect your information and assets, never submit 
+this type of date unless one is logged securely into the bank's official website or are confident
+that you are speaking with an authorised representative.
+
+B
+1.) Yes, these emails have malicious attachment that may lead to a fake ID stealing site.
+C.
+1) Training colleagues on phising, social engineering, and malware mitigation is critical for protecting both individual 
+users and the entire organization from cyber dangers. A arguably, the most popular cyberattacks is phishing, 
+which disguises itself as authentic messages in texts,emails, or telephone calls in order to fool people into disclosing
+confidential data such as username and password, financial data, or confidential documents.
+Staff should be educated to recognise red signs such as misaligned email addresses, grammar errors,
+dubious attachments, and links that differ from the legitimate domain. In contrast, social engineering is based on human
+psychology rather than technology. Hackers may impersonate trustworthy coworkers, IT personnel, or even upper 
+management in order to trick people into breaking security standards. Employees should be encouraged to use caution 
+even when demands seem to originate from within the organisation, to verify unexpected directives via secondary channels, and to 
+avoid feelng forced to act hastily without sufficient checks.
+Malware infestations, which are commonly caused bt opening malicious links, downloading dubious software, or connecting in strange USB
+devices, can compromise sensitive information, impede operations, and harm an organization's brand. Training 
+ought to emphasise the importance of using most recent antivirus software, avoid untrustworthy downloads, and downloading
+updates as soon as possible to address known vulnerabilities. Personnel must also appreciate the necessity of using
+unique and secure passwords, activating two-factor authentication where feasible, and reporting questionable occurrence
+immediately so that the IT staff can respond fast.
+Actual scenarios and interactive simulations are especially helpful at reinforcing 
+these skills because they allow employees to witness firsthand how persuasive phishing emails or phone calls may be.
+Furthermore, creating a culture in which staff members are at ease raising questins or double-checking possible hazards
+without fear of repercussions increases collective resilience. Eventually, the purpose of this training is to develop a 
+workforce that is both watchful and confident, capable of recognising misleading techniques, avoiding risky behaviours, 
+and serving as the first line of defence against ever-changing cyber threats.
